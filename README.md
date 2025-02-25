@@ -27,7 +27,7 @@ I like to build apps that use AI. I studied Physics and Machine Learning in coll
 - Contributions: Frontend, Google Maps API
 - Technologies: Node.js, React, Supabase
 
-### Delicious AI Hackathon 
+### Delicious AI Hackathon - https://github.com/collinmcgregor/DeliciousAI_Hackathon
 - Description: Won 2nd Place at BYU AI Association hackathon for our image recognition model to identify drinks in Coca cola vendor fridges
 - Contributions: Built and trained Resnet model on database of 30,000 beverage images
 - Technologies: PyTorch, BYU Supercomputer, Resnet50
