@@ -6,7 +6,7 @@ I like to build apps that use AI. I studied Physics and Machine Learning in coll
 - Contributions: Built frontend, vision model, backend routes for storage/image processing, API integrations
 - Technologies: Next.js, Node.js (initial version), Supabase
 
-### (I.A.N.) AI Voice Assistant for Nexu (Fintech Company in Mexico City) 
+### I.A.N.: AI Voice Assistant for Nexu (Fintech Company in Mexico City) 
 - Contributions: Implemented chat logic, built frontend, prompt engineering and call flow, EC2 Instance handling
 - Technologies: FastAPI, AWS, Vercel, Deepgram, ChatGPT API, Supabase
 
